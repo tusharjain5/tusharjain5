@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript,React Js, SpringBoot**
 
-- 💬 Ask me about **Java,HTML,CSS,BootStrap**
+- 💬 Ask me about **Java,MySQL,BootStrap**
 
 - 📫 How to reach me **jaint8648@gmail.com**
 
