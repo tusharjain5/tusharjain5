@@ -57,13 +57,6 @@
   <a href="https://leetcode.com/u/jaint8648/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=white" /></a>
 </p>
 
----
-
-<h2 align="center">🎮 Fun Stuff</h2>
-<p align="center">
-  <a href="https://www.freetetris.org" target="_blank"><img src="https://img.shields.io/badge/Play-Tetris-FD3A69?style=for-the-badge&logo=tetris&logoColor=white"></a>
-</p>
-
 <p align="center">
   👨‍💻 Let's build something amazing together!
 </p>
