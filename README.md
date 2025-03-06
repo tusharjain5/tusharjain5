@@ -40,7 +40,7 @@
 
 <h2 align="center">🔍 What I’m Working On</h2>
 <ul align="center">
-  <li>🌱 Currently learning <b>JavaScript, React.js, and Spring Boot</b>.</li>
+  <li>🌱 Currently learning <b>Nextjs, Nodejs, and Angularjs</b>.</li>
   <li>🛠️ Exploring innovative solutions to enhance user experiences.</li>
   <li>💬 Always happy to discuss <b>Java, MySQL, Bootstrap</b>, and more.</li>
 </ul>
