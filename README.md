@@ -1,6 +1,6 @@
 <h1 align="center">🚀 <span style="color:#00ffe1;">Tushar Jain</span> 🚀</h1>
 <h3 align="center" style="color:#ff00ff;">
-🌍 India • 💻 Software Engineer • 🧠 Problem Solver • ☕ Java Evangelist
+🌍 India • 💻 Software Engineer • 🧠 Problem Solver 
 </h3>
 
 <p align="center">
